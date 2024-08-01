@@ -43,4 +43,4 @@ The this keyword is used to refer to the current instance of the class. It can b
 
 ## Interface
 
-An interface is a reference type in Java that is similar to a class. It is a collection of abstract methods. A class implements an interface, thereby inheriting the abstract methods of the interface.
+An interface is a reference type in Java that is similar to a class. It is a collection of abstract methods. A class implements an interface, thereby inheriting the abstract methods of the interface. In interface we cab achieve 100% abstraction .
